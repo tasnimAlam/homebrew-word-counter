@@ -4,8 +4,8 @@
 class WordCounter < Formula
   desc "A program that displays word count of a file. "
   homepage "https://github.com/tasnimAlam/word_counter"
-  url "https://github.com/tasnimAlam/word_counter/releases/download/0.2.0/word_counter"
-  sha256 "63d8321c9de8c16ad87aef112b001d17b95efefc0a1b8fbddaa5244e2cdd18a1"
+  url "https://github.com/tasnimAlam/word_counter/releases/download/0.3.0/word_counter"
+  sha256 "6c6d99cf1078724c74950360a936d1aa708d0273116244cf14d04697572cdcbc"
   license ""
 
   # depends_on "cmake" => :build
